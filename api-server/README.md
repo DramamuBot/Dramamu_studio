@@ -295,14 +295,6 @@ We have prepared detailed guides for various platforms:
 
 ---
 
-## 👨‍💻 Developer
-
-**Handoko x Mari Partner**
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6287780081554)
-
----
-
 ## 📄 License
 
 MIT License - feel free to use for personal or commercial projects.
